@@ -19,6 +19,7 @@
     <!-- Secondary text color in the Phone app -->
     <color name="dialtacts_primary_text_color">#000000</color>
     <color name="dialtacts_secondary_text_color">#888888</color>
+<<<<<<< HEAD
 
     <!-- Background color of dialpad -->
     <color name="background_dialpad">#ffffff</color>
@@ -32,6 +33,9 @@
     <color name="dialpad_digits_text_color">#000000</color>
     <!-- Color for dialpad separator lines -->
     <color name="dialpad_separator_line_color">#dadada</color>
+=======
+    <color name="dialpad_text_color">#000000</color>
+>>>>>>> 317fccb... Fix build
 
     <!-- Color of the text describing an unconsumed missed call. -->
     <color name="call_log_missed_call_highlight_color">#FF0000</color>
